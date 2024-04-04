@@ -20,7 +20,7 @@ The source code was tested on Python 3.7. All required libraries are listed in t
 Clone this repository, then move to its directory:
 
 ```
-git clone https://github.com/FLClab/TA-GAN.git
+git clone https://github.com/stonedada/MA-GAN.git
 cd TA-GAN/
 ```
 
